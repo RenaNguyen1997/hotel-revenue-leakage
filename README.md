@@ -95,7 +95,7 @@ The dashboard enables:
 ````
 
 ## Useful Link:
-Portfolio: 
-LinkedIn: 
+- Portfolio: [Revenue Leakage Analysis & Cancellation Risk Segmentation](https://nrena1997.wixsite.com/analyst-porfolio/post/revenue-leakage-analysis-cancellation-risk-segmentation)
+- LinkedIn: [Summary of the project](https://www.linkedin.com/posts/renanguyen1997_revenuemanagement-hoteloperations-businessanalytics-activity-7444248112040177664-DSh3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPXk1cB85Sjb8A4-JyRBgfz-KdwmHRZ4fc)
 
 
